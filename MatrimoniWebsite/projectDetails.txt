@@ -1,0 +1,44 @@
+Technolgies:
+HTML and CSS
+
+Pages Created:
+Home
+About US
+Login 
+Register
+Profiles
+
+WelcomePage/Home page > Register > Login > Home > profile.
+
+Use of HTML:
+	We used HTML to create the front end link adding the buttons in the web-page, linking other pages etc.
+
+Use of CSS:
+	CSS is also called as cascade style sheet to add style to the HTML page that we have created like adding
+back-ground image, colors etc.
+
+Home page: 
+	Home page is the main page which user will be able to see once they open the website. From there user can 
+navigate to Register, User has to register there details in Regiseter details if they have already registered they can
+can directly navigate to login page.
+
+Regiser page:
+	User has to register here to proceed further. They can register by giving there details such as Name, Contact details, email.
+
+Login Page: 
+	Once they regiseter they can use this page to login with there credentials.
+
+Profiles: 
+	Once you click on Profiles user can select wheter they are looking for bride or groom profile.
+
+Groom/Bride: 
+	Once they click on groom/bride button they can see the grooms or brides information link their contact number and
+ other details.
+
+Frogot password:
+	In login page there is oprion as forgot password they can lick on it and they will gwt a page where 
+they can enter ther mail Id and get link to reset password.
+
+Note: 
+	The created one is proto UI designed using HTML and CSS. We have not yet developed backend for this since we need 
+more time in doing that. 
